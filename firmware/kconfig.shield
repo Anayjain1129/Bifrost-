@@ -1,5 +1,0 @@
-config SHIELD_BIFROST_LEFT
-    def_bool $(shields_list_contains,BIFROST_left)
-
-config SHIELD_BIFROST_RIGHT
-    def_bool $(shields_list_contains,BIFROST_right)
