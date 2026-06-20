@@ -1,6 +1,5 @@
 # Bifrost-
 <img width="1494" height="730" alt="image" src="https://github.com/user-attachments/assets/ef260470-ed30-4370-a127-4ef2418e700d" />
-<img width="1492" height="750" alt="image" src="https://github.com/user-attachments/assets/c6682841-3bda-47f3-9f3b-165c847d7938" />
 <img width="1478" height="506" alt="image" src="https://github.com/user-attachments/assets/c533581e-3e91-4a07-bde6-f25d607a5ee5" />
 <img width="1371" height="861" alt="image" src="https://github.com/user-attachments/assets/ad22c5b5-996c-43de-b88e-8a93786b6d5e" />
 <img width="1437" height="739" alt="image" src="https://github.com/user-attachments/assets/ef663436-ae9e-4341-85de-4ccb82796493" />
