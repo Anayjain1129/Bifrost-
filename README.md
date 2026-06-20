@@ -69,3 +69,16 @@ I made this project to learn how does the XIAO-nRF52840-SMD MCUs work and how do
 <img width="1920" height="1080" alt="bd81181d-0abd-43f1-9f33-907f49870ec5" src="https://github.com/user-attachments/assets/5a677ee3-45de-4161-a1c0-b449b319788f" />
 <img width="1920" height="722" alt="assembly_2026-Jun-20_11-41-39AM-000_CustomizedView24335070845" src="https://github.com/user-attachments/assets/918663c9-ebb2-4fb7-9cd0-f8ae87e72217" />
 
+# BOM
+# Bill of Materials
+
+| Item | Description | Quantity | Unit Price (INR) | Total Price (INR) | Total Price (USD) | URL |
+|------|-------------|----------|-----------------|-------------------|-------------------|-----|
+| PCB | Printed Circuit Board | 5 | ₹834 | ₹4,170 | $44.18 | N/A |
+| Seeed XIAO nRF52840 | Microcontroller | 2 | ₹1,152 | ₹2,304 | $24.41 | [Robu.in](https://robu.in/product/seeed-studio-xiao-ble-nrf52840/?gad_source=1&gad_campaignid=17416544847&gbraid=0AAAAADvLFWeP63tfJcREqEEJOvF9pKHih&gclid=CjwKCAjw9NjRBhATEiwA_p2J8QqYpS8QPFfUIue8c5T7P2aq6sJovGVlfgAdk8MTvIrfn7f6xPkeKBoCx_EQAvD_BwE) |
+| Gateron Hotswap Sockets | Switch Sockets | 43 | ₹10 | ₹430 | $4.56 | [StacksKB](https://stackskb.com/store/gateron-hotswap-sockets/) |
+| Cherry MX Switches | Switch | 50 | ₹18 | ₹900 | $9.54 | [Neomacro](https://neomacro.in/products/gateron-ef-cedar) |
+| Blank DSA Keycaps 1u | Keycaps | 50 | ₹18.88 | ₹944 | $10.00 | [MecKeys](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-keycaps-1u/) |
+| 3.7V LiPo Battery | Battery | 1 | ₹293 | ₹293 | $3.10 | [Amazon.in](https://www.amazon.in/Bhajanlal-Greenery-Rechargeable-Lithium-Batteries/dp/B0CYQ6H8FW?sr=8-3) |
+| 1N4148WS SOD-123 | Diodes | 50 | ₹3 | ₹150 | $1.59 | [QuartzComponents](https://quartzcomponents.com/products/1n4148ws-t4-switching-diode-sod-123-smd-package?variant=45540031627498) |
+| **TOTAL** | | | | **₹9,191** | **$97.38** | |
