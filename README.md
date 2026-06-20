@@ -13,7 +13,7 @@
 ### What is this project? 
 This is a Split Keyboard made by a 15 year old teenager(me) from india. it uses XIAO nRF52840 as MCU and a battery connection too! which uses ZMK in firmware! 
 
-### How to use it?
+### How to use/build it?
 1. Break the PCB in 2 halves! 
 2. Assemble the PCB with soldering iron by soldering the MCU, switches, and diodes
 3. Plug in the MCU with PCB and then put the firmware file in it
