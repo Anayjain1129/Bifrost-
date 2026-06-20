@@ -25,6 +25,9 @@ This is a Split Keyboard made by a 15 year old teenager(me) from india. it uses 
 ### Why did i made this? 
 I made this project to learn how does the XIAO-nRF52840-SMD MCUs work and how does the battery work with the PCBs and also to learn how to solder the SMD components, as they are so small in size and to master the soldering of componentes by hand.
 
+### What was the Hardrest part?
+All of the parts were hard and i think i learned so much from this project too! but using ZMK was the hardest part! but yea making this project did helped me to learn alot! 
+
 # Features
 - Seeed Studio XIAO 
 - Custom Layout
