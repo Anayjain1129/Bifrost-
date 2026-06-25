@@ -54,16 +54,18 @@ All of the parts were hard and i think i learned so much from this project too! 
 
 # Case
 ## Top
-<img width="1350" height="809" alt="image" src="https://github.com/user-attachments/assets/578e6969-55fa-4854-bc9c-c01fb5368581" />
-<img width="1187" height="597" alt="image" src="https://github.com/user-attachments/assets/87e6c1ba-921f-4a8e-97ac-85175e621686" />
-<img width="1394" height="867" alt="image" src="https://github.com/user-attachments/assets/61b5deb3-8003-4c46-b065-63395a75cf3d" />
-<img width="1497" height="650" alt="image" src="https://github.com/user-attachments/assets/00767ea0-418e-4998-914b-d2b01816f91d" />
+<img width="1307" height="794" alt="image" src="https://github.com/user-attachments/assets/383802f9-9c06-4e7e-8bef-775525f7de40" />
+<img width="1458" height="696" alt="image" src="https://github.com/user-attachments/assets/0c88de0d-b1ad-4d52-8668-33523f78cd07" />
+<img width="1217" height="553" alt="image" src="https://github.com/user-attachments/assets/352906f3-9c9d-4b9b-b5aa-81a83b2d6b30" />
+<img width="1456" height="796" alt="image" src="https://github.com/user-attachments/assets/2bbe296e-be5f-45df-afb9-8735e3e559d5" />
+
 
 ## Bottom
-<img width="1511" height="855" alt="image" src="https://github.com/user-attachments/assets/34397cb8-3f3b-4d6b-885d-fd187cb9eb9b" />
-<img width="1186" height="705" alt="image" src="https://github.com/user-attachments/assets/10b0da90-a8a7-4b42-842b-aa3f2cebaf3b" />
-<img width="1407" height="874" alt="image" src="https://github.com/user-attachments/assets/ac56de15-c784-49c1-bc71-b83f990a1ab5" />
-<img width="1488" height="874" alt="image" src="https://github.com/user-attachments/assets/b8c3273b-ac2d-4a3e-8d3b-3afb66fb2369" />
+<img width="1195" height="754" alt="image" src="https://github.com/user-attachments/assets/1a942013-8dbb-4d04-9b41-132ae288fdfb" />
+<img width="1292" height="784" alt="image" src="https://github.com/user-attachments/assets/b55fa3cb-12af-40b5-b9aa-47084336cf59" />
+<img width="1425" height="741" alt="image" src="https://github.com/user-attachments/assets/2715c075-b1d0-4501-b4f7-5be4aa23f3a8" />
+<img width="1420" height="770" alt="image" src="https://github.com/user-attachments/assets/9dc918ab-8c1d-4032-95c1-8a9dd7a9fecd" />
+
 
 # 3d view of all parts together
 <img width="1496" height="530" alt="image" src="https://github.com/user-attachments/assets/c449bd67-a3a2-48b5-9dc2-90aa8e2ad2e2" />
