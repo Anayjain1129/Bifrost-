@@ -1,10 +1,11 @@
 # Bifrost-
 <img width="1504" height="738" alt="Screenshot 2026-06-25 133826" src="https://github.com/user-attachments/assets/c882d279-0381-4a31-9dcc-0ac44c010b5f" />
 <img width="1496" height="530" alt="Screenshot 2026-06-25 133740" src="https://github.com/user-attachments/assets/6954ad17-6130-49ae-ba69-4bb8da8c67cf" />
-<img width="1371" height="861" alt="image" src="https://github.com/user-attachments/assets/ad22c5b5-996c-43de-b88e-8a93786b6d5e" />
-<img width="1437" height="739" alt="image" src="https://github.com/user-attachments/assets/ef663436-ae9e-4341-85de-4ccb82796493" />
-<img width="1917" height="650" alt="image" src="https://github.com/user-attachments/assets/06d8559a-fd00-4c2e-ae41-cd969f23112e" />
-<img width="1234" height="741" alt="image" src="https://github.com/user-attachments/assets/e58b2e0d-7ee5-407c-a9fa-55233b2b60c5" />
+<img width="1413" height="761" alt="image" src="https://github.com/user-attachments/assets/2119d111-803a-48aa-b676-5f1a7ee7ecae" />
+<img width="1279" height="781" alt="image" src="https://github.com/user-attachments/assets/e03dce0f-f690-4c2c-af3b-b8c8cff3e4d3" />
+<img width="1241" height="700" alt="image" src="https://github.com/user-attachments/assets/78a2659b-dbca-4a45-8861-f15caf4be0b4" />
+<img width="1184" height="739" alt="image" src="https://github.com/user-attachments/assets/4b933076-b97d-431a-a019-9851d24bd027" />
+
 
 
 # Zine-Page
