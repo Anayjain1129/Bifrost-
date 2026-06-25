@@ -47,9 +47,10 @@ All of the parts were hard and i think i learned so much from this project too! 
 <img width="264" height="658" alt="image" src="https://github.com/user-attachments/assets/e22e0ae6-368f-42e1-a50c-e3194801fe3c" />
 
 ## 3d PCB
-<img width="1320" height="489" alt="image" src="https://github.com/user-attachments/assets/f2c01cd0-6d7c-4eb3-b445-9cdc8a85be0e" />
-<img width="1719" height="480" alt="image" src="https://github.com/user-attachments/assets/d345915c-d71c-4805-a746-35060c0c4c26" />
-<img width="1738" height="520" alt="image" src="https://github.com/user-attachments/assets/8ead6301-223d-4e3e-b359-151e5466d56a" />
+<img width="1662" height="873" alt="image" src="https://github.com/user-attachments/assets/079d94fa-a469-4594-8644-a06d876f8d13" />
+<img width="1706" height="575" alt="image" src="https://github.com/user-attachments/assets/30417053-1f03-4ca9-9273-18236192b883" />
+<img width="1695" height="639" alt="image" src="https://github.com/user-attachments/assets/1f27efc9-a359-4fbb-9671-a7c8964ff16d" />
+
 
 # Case
 ## Top
