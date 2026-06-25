@@ -8,7 +8,7 @@
 
 
 # Zine-Page
-<img width="9177" height="13000" alt="Group 274 (2)" src="https://github.com/user-attachments/assets/12481ec1-f2bf-43de-8f26-6fbedf13e529" />
+<img width="3137" height="4444" alt="Group 274" src="https://github.com/user-attachments/assets/9105745d-8788-4559-b818-fdc32ffa5990" />
 
 ### What is this project? 
 This is a Split Keyboard made by a 15 year old teenager(me) from india. it uses XIAO nRF52840 as MCU and a battery connection too! which uses ZMK in firmware! 
@@ -34,6 +34,7 @@ All of the parts were hard and i think i learned so much from this project too! 
 - ZMK firmware
 - Very cool case/enclosure to hold the PCB
 - Uses nRF52840
+- Uses magnets to keep things together
 
 ## Schematics 
 <img width="1647" height="1016" alt="image" src="https://github.com/user-attachments/assets/a835eadd-072f-4ee2-8dba-062451038602" />
@@ -63,12 +64,13 @@ All of the parts were hard and i think i learned so much from this project too! 
 <img width="1488" height="874" alt="image" src="https://github.com/user-attachments/assets/b8c3273b-ac2d-4a3e-8d3b-3afb66fb2369" />
 
 # 3d view of all parts together
-<img width="1673" height="693" alt="image" src="https://github.com/user-attachments/assets/ce787945-9136-407b-88fa-59ae33fbb9b9" />
-<img width="1616" height="632" alt="image" src="https://github.com/user-attachments/assets/935f2cf2-1ef8-417d-9c52-b56722e71b7a" />
-<img width="1354" height="785" alt="image" src="https://github.com/user-attachments/assets/2b29c52b-a694-4112-a329-05d475acc2e4" />
-<img width="1920" height="1080" alt="bd81181d-0abd-43f1-9f33-907f49870ec5-Photoroom" src="https://github.com/user-attachments/assets/4101fa90-5b29-4c5e-aa1c-7ecabd495ec7" />
-<img width="1920" height="1080" alt="bd81181d-0abd-43f1-9f33-907f49870ec5" src="https://github.com/user-attachments/assets/5a677ee3-45de-4161-a1c0-b449b319788f" />
-<img width="1920" height="722" alt="assembly_2026-Jun-20_11-41-39AM-000_CustomizedView24335070845" src="https://github.com/user-attachments/assets/918663c9-ebb2-4fb7-9cd0-f8ae87e72217" />
+<img width="1496" height="530" alt="image" src="https://github.com/user-attachments/assets/c449bd67-a3a2-48b5-9dc2-90aa8e2ad2e2" />
+<img width="1721" height="635" alt="image" src="https://github.com/user-attachments/assets/59df53ba-6f47-42f1-a484-42f7936b45d2" />
+<img width="1504" height="738" alt="image" src="https://github.com/user-attachments/assets/fed6c198-6aa1-44cb-bec2-9726b0fc17fd" />
+<img width="1920" height="722" alt="assembly_2026-Jun-25_07-58-10AM-000_CustomizedView7371545002-Photoroom" src="https://github.com/user-attachments/assets/17d5f365-488b-4a41-b4b3-160abb7536d3" />
+<img width="1920" height="722" alt="assembly_2026-Jun-25_07-58-10AM-000_CustomizedView7371545002" src="https://github.com/user-attachments/assets/ca5bc385-9b44-4fcc-8fe7-9ec1a33cb825" />
+<img width="1372" height="697" alt="image" src="https://github.com/user-attachments/assets/9783b137-be4e-4ad3-8f5e-4362841313a8" />
+
 
 # BOM
 | Item | Description | Quantity | Unit Price (INR) | Total Price (INR) | Total Price (USD) | URL |
